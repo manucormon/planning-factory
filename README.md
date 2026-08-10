@@ -56,7 +56,7 @@ print(plan.confidence)      # "PLANNED"
 pytest instances/cycling/tests/
 ```
 
-9 tests, all passing. Verified findings in `instances/cycling/NOTES.md`.
+11 tests, all passing. Verified findings in `instances/cycling/NOTES.md`.
 
 ## Guardrail 8 — latency budget
 `plan.dt_ahead` exposes how many seconds the plan covers.
